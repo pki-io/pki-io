@@ -48,8 +48,8 @@ Options:
 
 --name=<name> Node name
 .SH SEE ALSO
-TBC
+None. Nobody does it like us.
 .SH BUGS
-Probably many ...
+Probably a bunch but we are working on it.
 .SH AUTHOR
 Athanasios Kostopoulos (lixtetrax@grhack.net)
