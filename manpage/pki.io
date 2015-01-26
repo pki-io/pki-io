@@ -10,43 +10,27 @@ next-gen PKI handling tool
 .SH OPTIONS
 Usage:
 
-pki.io init <org> [--admin=<admin>]
-
-pki.io ca new <name> --tags=<tags> [--parent=<id>]
-
-pki.io ca sign <ca> <csr>
-
-pki.io csr new <name>
-
-pki.io node new <name> --pairing-id=<id> --pairing-key=<key>
-
-pki.io node install-certs --name=<name>
-
-pki.io cert show <name>
-
-pki.io org show
-
-pki.io org register-nodes
-
-pki.io pairing-key new --tags=<tags>
-
-pki.io --version
+ pki.io init <org> [--admin=<admin>]
+ pki.io ca new <name> --tags=<tags> [--parent=<id>]
+ pki.io ca sign <ca> <csr>
+ pki.io csr new <name>
+ pki.io node new <name> --pairing-id=<id> --pairing-key=<key>
+ pki.io node install-certs --name=<name>
+ pki.io cert show <name>
+ pki.io org show
+ pki.io org register-nodes
+ pki.io pairing-key new --tags=<tags>
+ pki.io --version
 
 Options:
 
--h --help Show this screen
-
---version Show version
-
---admin=<name> Administrator name. Defaults to admin.
-
---parent=<id> Parent CA ID
-
---tags=<tags> Comma separated list of tags
-
---pairing-key=<key> Pairing key
-
---name=<name> Node name
+ -h --help Show this screen
+ --version Show version
+ --admin=<name> Administrator name. Defaults to admin.
+ --parent=<id> Parent CA ID
+ --tags=<tags> Comma separated list of tags
+ --pairing-key=<key> Pairing key
+ --name=<name> Node name
 .SH SEE ALSO
 None. Nobody does it like us.
 .SH BUGS
