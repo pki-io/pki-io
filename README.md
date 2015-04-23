@@ -17,3 +17,14 @@ Website: http://pki.io
 * [api](https://github.com/pki-io/api) - The API service
 
 All other repos are 'vendored' dependencies that have been forked.
+
+## Contributing
+
+* Fork
+* Create branch
+* Make changes
+* Push branch
+* Create Pull Request
+* Optionally create a new topic on mailing list to discuss PR
+
+See also the [Developer and Community Guidelines](https://github.com/pki-io/pki-io/wiki/Developer-and-Community-Guidelines).
