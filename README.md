@@ -7,6 +7,8 @@ Open source and scalable X.509 certificate management.
 
 Website: http://pki.io
 
+Wiki: https://github.com/pki-io/pki-io/wiki
+
 ## Repositories
 
 * [pki-io](https://github.com/pki-io/pki-io) - This repo containing documentation and wikis
